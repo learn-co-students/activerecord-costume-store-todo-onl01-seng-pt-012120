@@ -1,4 +1,4 @@
-# Active Record Costume Store
+sing # Active Record Costume Store
 
 ## Contents
 
